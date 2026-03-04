@@ -119,7 +119,7 @@ If you like my work, give a ⭐ to my repositories.
 
 ---
 
-# ✌️ GitHub Contributions (●'◡'●)
+# ✌️ GitHub Repository Commits (●'◡'●)
 <br clear = "both">
 
 ![snake animation](./snake_animation.svg)
