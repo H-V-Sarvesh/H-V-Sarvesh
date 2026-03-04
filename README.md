@@ -117,6 +117,11 @@ LinkedIn: https://linkedin.com/in/hvsarveshvishwanath/
 
 If you like my work, give a ⭐ to my repositories.
 
+<br clear = "both">
+
+![snake animation](./snake_animation.svg)
+
+
 
 <!--
 **H-V-Sarvesh/H-V-Sarvesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
