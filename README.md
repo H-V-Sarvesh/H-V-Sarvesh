@@ -117,6 +117,9 @@ LinkedIn: https://linkedin.com/in/hvsarveshvishwanath/
 
 If you like my work, give a ⭐ to my repositories.
 
+---
+
+# ✌️ GitHub Contributions (●'◡'●)
 <br clear = "both">
 
 ![snake animation](./snake_animation.svg)
